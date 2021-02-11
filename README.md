@@ -9,7 +9,7 @@ I'm Justin (aka JusJus) and I create APIs, Websites, Backend Systems & Frontend 
 
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusjus112&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JusJusOneOneTwo&show_icons=true&theme=radical&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JusJusOneOneTwo&show_icons=true&theme=radical&layout=compact&count_private=true&hide_border=true)
 
 
 <!--
