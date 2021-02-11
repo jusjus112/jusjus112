@@ -1,14 +1,15 @@
 ### Hi there 👋
+I'm Justin (aka JusJus) and I create APIs, Websites, Backend Systems & Frontend Designs.  
 
-I'm Justin (aka JusJus) and I create APIs, Websites, Backend Systems & Frontend Designs.
+🔭 I’m currently working on @Pickade, @MiragePrisons, @Devro-Coding and some other cool private projects.<br>
+🌱 I’m always learning new things.<br>
+⚡ Fun fact: I'll have been mad at anyone.<br>
+😄 Pronouns: He, Him, Lord<br>
+📫 How to reach me: justin@devrocoding.com, @jusjus112<br>
 
-🔭 I’m currently working on @Pickade, @MiragePrisons, @Devro-Coding and some other cool private projects.
-🌱 I’m always learning new things.
-⚡ Fun fact: I'll have been mad at anyone.
-😄 Pronouns: He, Him, Lord
-📫 How to reach me: justin@devrocoding.com, @jusjus112
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JusJusOneOneTwo&show_icons=true&theme=radical)]
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusjus112&show_icons=true&theme=radical)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JusJusOneOneTwo&show_icons=true&theme=radical&layout=compact)
 
 
 <!--
