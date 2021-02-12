@@ -3,7 +3,7 @@ I'm Justin (aka JusJus) and I create APIs, Websites, Backend Systems & Frontend 
 
 🔭 I’m currently working on [@Pickade](https://github.com/Pickade),[@MiragePrisons](https://github.com/MiragePrisons), [@Devro-Coding](https://github.com/Devro-Coding) and some other cool private projects.<br>
 🌱 I’m always learning new things.<br>
-⚡ Fun fact: I'll have been mad at anyone.<br>
+⚡ Fun fact: You can make me happy with Chick-fil-A.<br>
 😄 Pronouns: He, Him, Lord<br>
 📫 How to reach me: justin@devrocoding.com, [@jusjus112](https://github.com/jusjus112)<br>
 
