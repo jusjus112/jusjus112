@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm Justin (aka JusJus) and I create APIs, Websites, Backend Systems & Frontend Designs.  
+I'm Justin (aka JusJus) and I create APIs, Websites, Backend Systems & Frontend Designs.<br>
+Currently travelling the world as a Digital Nomad and working as a programmer.<br>
+Check out [CodingFromNowhere](https://www.codingfromnowhere.com) where my story lays.<br>
 
 🔭 I’m currently working on [@MiragePrisons](https://github.com/MiragePrisons), [@Devro-Coding](https://github.com/Devro-Coding) and some other cool private projects.<br>
 🌱 I’m always learning new things.<br>
