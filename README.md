@@ -1,12 +1,13 @@
 ### Hi there 👋
-I'm Justin (aka JusJus) and I create APIs, Websites, Backend Systems & Frontend Designs.<br>
-Currently travelling the world as a Digital Nomad and working as a programmer.<br>
-Check out [CodingFromNowhere](https://www.codingfromnowhere.com) where my stories are.<br>
+I'm Justin (aka JusJus) and I create APIs, Libraries, Backend Systems written in mostly Java.<br>
+I do work on expanding my expertise by working on Angular, React, Vue & NextJS for Web Applications.
+Currently travelling the world as a Digital Nomad and working remotely as a programmer.<br>
+Check out [CodingFromNowhere](https://www.codingfromnowhere.com) where my travel stories are.<br> 
+And [My own website](https://www.jusjus.me) to find out more about me and my career. 
 
-🔭 Projects: [@Ziax](https://github.com/teamziax), [@MiragePrisons](https://github.com/MiragePrisons) and some other cool private projects.<br>
 🌱 I’m always learning new things.<br>
 ⚡ Fun fact: You can make me happy with Chick-fil-A.<br>
-😄 Pronouns: He, Him, Lord (Official)<br>
+😄 Pronouns: He, Him, Lord (Official Irish Lord)<br>
 📫 How to reach me (Instagram): [@JusJusOneOneTwo](https://www.instagram.com/jusjusoneonetwo/)<br>
 
 ### Stats
